@@ -1,0 +1,69 @@
+.mypara{
+    background-color:yellow;
+    height: 50px;
+    text-align: left;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 3px; 
+}
+body{
+    background-color: #b78ef8;
+}
+.my-nav{
+    background-color: #6610F2;
+    color: #fff;
+}
+.my-nav-dark{
+    background-color: #081f1c;
+    color: #fff;
+}
+.navbar-brand{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+}
+.navbar-brand:hover{
+    color: #fff;
+    cursor: pointer;
+}
+.nav-link1{
+    color: #b18cec;
+    font-size: 1rem;
+    font-weight: 500;
+    align-items: baseline;
+}
+.nav-link2 {
+    color: #cac4d4;
+    font-size: 1rem;
+    font-weight: 500;
+    align-items: baseline;
+}
+
+
+.nav-link1:hover , .nav-link2:hover  {
+    
+    color: #fff;
+}
+
+.my-btn{
+    border: 2px solid #5119ac;
+    color: #755e9b;
+    background: #6610F2;
+    font-weight: 500;
+}
+.my-btns{
+    background: #fff;
+    border: 2px solid #042c23;
+    font-weight: 500;
+}
+.my-btns:hover{
+   
+    color: #fff;
+    background:#11856c;
+    border: 2px solid white;
+}
+.my-btn:hover{
+    border: 2px solid #fff;
+    color: #fff;
+    background: #6610f1;;
+}
