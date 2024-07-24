@@ -12,6 +12,7 @@ export default function TextForm(props) {
     setText(newText);
     props.showalert("Uppercase converted", "successfully", "success");
   };
+
   const handleUpClicklower = () => {
     // console.log("Capitalize was clicked" + " " + text);
     let newText = text.toLowerCase();
